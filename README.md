@@ -14,6 +14,8 @@ This program automatically summarizes and organizes video lectures. It is design
 ## Before you use
 1. Before running this code, you must download "https://alphacephei.com/vosk/models/vosk-recasepunc-en-0.22.zip", unzip it, and  put the directory in the same path as this README.md file. (After unzipping the file, rename it as "**recasepunc**")
 
+![edu_siri 설명](https://github.com/Cr0nu3/edu_siri/assets/68406739/3dfe7a99-09cf-497b-8870-b2edc7e88b76)
+
 ## Manual in each options
 * Video-Text Convert & Summary Mode (All) 
     1. Put videos you want to transcribe in "/video" directory.
@@ -44,6 +46,7 @@ This program automatically summarizes and organizes video lectures. It is design
 
 ## 사용 전 세팅 안내
 1. 프로그램을 돌리기 전, https://alphacephei.com/vosk/models/vosk-recasepunc-en-0.22.zip 다운 필수 & README.md 파일과 같은 경로의 디렉토리 안에 넣어놔야 합니다. (다운받은 파일을 압축해제한 후, 디렉토리명은 recasepunc로 변경해주세요.)
+![edu_siri 설명](https://github.com/Cr0nu3/edu_siri/assets/68406739/3dfe7a99-09cf-497b-8870-b2edc7e88b76)
 
 ## 옵션별 사용법
 * Video-Text Convert & Summary Mode (All) 
