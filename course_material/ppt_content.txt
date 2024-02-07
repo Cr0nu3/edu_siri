@@ -1,0 +1,44 @@
+==========================================================
+Why Study Operating Systems?
+
+» Abstraction: How to get the OS to give users an
+illusion of infinite memory, CPUs, resources, world
+wide computing, etc.
+
+» System Design: How to make tradeoffs between
+performance and the convenience of OS abstractions,
+performance and the simplicity of OS design, and
+putting functionality in hardware or software.
+
+» Basic Understanding: The OS provides the services
+
+that allow application programs to work at all.
+
+» System Intersection Point: The OS is the point where
+hardware and software meet.
+==========================================================
+www.BANDIC,
+
+hy Study Opera
+
+com
+
+System
+
+Not many operating systems are under development, so you are
+unlikely to get a job building an OS. However, understanding
+operating systems will enable you to use your computer more
+effectively. They also serve as an excellent example of system
+design issues whose results and ideas you will apply elsewhere.
+
+L   Background: To understand this course you must have a
+solid basic understanding of hardware (CPU instruction sets,
+memory hierarchies, I/O systems, etc.) and solid programming
+skills (complex data structures, classes as an encapsulation
+mechanism, etc.)
+
+— Obviously, you cannot understand the implications of how
+components intersect without understanding the
+
+ae
+==========================================================
